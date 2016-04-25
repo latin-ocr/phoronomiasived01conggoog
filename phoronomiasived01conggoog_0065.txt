@@ -1,0 +1,51 @@
+38 De'Vrsinusa'r'Morruus'sl‘onnouuu. Luni.
+
+Senonrou
+
+,. 88. Qanquam hoc lemma simplicitate sua nullius usus prima·
+fronte videatur, in eo tamen omnes quadraturarum methodi fun-
+dantur, quod prolixius quidem ostendi posset tam in antiquorum
+methodis quam recentiorum, sed brevitatis gratia id tantum in usu
+Calculi integralis uno alteroque exemplo illustrabitur. Calculus in-
+ι . te ralis'vel summat'orius est inversus calculi differentialis, & con.
+
+fidit in εο,Ι ut inyeniatui quantitas A ex ¹indeterminata quadam ὃς
+constantibus composita, ejus indolis, ut, filoco indeterminatae in
+‚ea substituantur succeffive eadem indeterminata, sed elemento suo
+simplici, ejusve zplo , 3pln, 4plo, 5plo &e mulsiata inde ex,
+surgant quantitates B, C, D, Eae. quarum differentia A-B,
+B-C, C -D, D-E &e sint ejusdem forma cuni elemento ‚seu
+quantitate infinitesrma summanda, ita ut prima, differentia A-B‘,
+
+, , exhibeat ipsam quantitatem differentialem, cujus summa seu inte·
+
+graie quoerit‘ur. Ut fi curva quadam fit quadranda, cujus axis dica,
+tur, x, ὃς ordinatae ad hunc axem y, itaut areae elementumsutu
+· 'rum fit yda. Area ipsa invenietur‚s1 haberi possit ,quaedam quanti-
+
+tas A ex indeterminata x bc quantitatibus datis euconstantibu's
+'composita , itaque comparata, ut,s1 in ea substituantur locoindeter}
+’ minatae x, aliae x-dx, x-zdx, x-23dx, x-4dx &sic deinceps
+in infinitum, inde proveniant magnitudines B, C, D, E , &c ⁴qua7
+rum prima differentia ,ra-B det ydra,secunda 1320 det'secundum
+elementum areae ydx in quo ordinata y jam respondeat non axi x sed
+. axi x-dx, suo scilicet elemento dx imminuto, atque fic de reli*
+· fluis r'espeffivel Hac enim· ratione perspicuum est, omnes A-B,
+
+-C , C-D &o exhibere aggregatum omnium ydra, quta in area
+continentur,seu hanc aream i sam, jam sr in serie quantitatum de-
+crescentium A, B , C, D, ἒ &e minima dicatur M ,' area quae-
+fita, juxta Lemma (§. 87.) perpetuo erit A-M,& sr contingat ,ut
+‘ J aliquando M sit O ,tunc area :equatur ipsi A. Minima v‘ero quan-
+titas M semper habebitur ex‘Maxima A, sr scilicet loco indetermi-
+natae κ’ substituatur in ea x-ndx , nbi n est numerus elementorum,
+inqua axis divisus est, adeo ut ndx fitzx, vel quod eodem re,-
+cidit, 's1 loco xibi substituatur o, quandoquidem x-ndx est o,
+
+quantitasque cx hac substitutione resultans erit minima M. ‚Unde ι
+st contigat ut,·fadta substitutione ipsius o loco indeterminata ax in
+quantitate A, haec evanescat, tunc M eritzo, atque¹ adeo area
+- · · , quae-
+
+ 
+
